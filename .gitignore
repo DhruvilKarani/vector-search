@@ -1,0 +1,40 @@
+# Python-specific ignores
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+env.bak/
+.env/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+*.swo
+
+# Compiled files
+*.pyc
+*.class
+
+# Dependency directories
+# Remove the relevant lines if you're not using these package managers.
+# Adjust them based on your specific dependencies.
+pip-wheel-metadata/
+pip-egg-info/
+.benchmarks/
+.env/
+lib/
+local/
+*.egg-info/
+.installed.cfg
