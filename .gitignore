@@ -38,3 +38,13 @@ lib/
 local/
 *.egg-info/
 .installed.cfg
+
+
+*.*vecs
+
+*.gz
+
+#macOS
+.DS_Store
+
+vectors/sift

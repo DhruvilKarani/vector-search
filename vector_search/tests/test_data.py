@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-from data.utils import generate_dummy_data
+from vector_search.data.utils import generate_dummy_data
 
 
 def test_generate_dummy_data():
